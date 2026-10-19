@@ -1,5 +1,5 @@
 
-package com.example.trustnetvpn; // Replace with your actual package
+package com.example.trustnetvpn; 
 
 import android.graphics.Color;
 import android.graphics.Typeface;
